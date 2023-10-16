@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697427705 source:c:\users\joaom\desktop\aula logica faculdade\mastermindgame\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	<vector>
+
